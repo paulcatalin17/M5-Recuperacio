@@ -12,9 +12,9 @@ Per jugar al joc:
 ## Contribució
 Per contribuir a aquest projecte:
 1. Fes un fork del repositori.
-2. Crea una branca per a la teva nova característica (`git checkout -b característica/nova-característica`).
-3. Fes els teus canvis i fes commit (`git commit -m 'Afegeix nova característica'`).
-4. Empeny els canvis a GitHub (`git push origin característica/nova-característica`).
+2. Crea una branca per a la teva nova característica (`git checkout`).
+3. Fes els teus canvis i fes commit (`git commit -m`).
+4. Empeny els canvis a GitHub (`git push origin`).
 5. Obre una sol·licitud de pull a GitHub.
 
 ## Autors
